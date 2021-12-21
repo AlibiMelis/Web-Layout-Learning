@@ -1,0 +1,19 @@
+body {
+	background-image: url(https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png);
+	background-size: cover;
+}
+
+h2 {
+	text-align: center;
+	border: 5px dashed purple;
+	cursor: pointer;
+}
+
+h2 + p {
+	color: red;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}

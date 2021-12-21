@@ -1,0 +1,2 @@
+# Learning CSS Grid and Layout for Web Development
+I started learning Web Development in the summer of 2021. I started by learning basics of HTML, CSS, and JS. This repository contains a number of small websites that I built along with <a href="https://github.com/zero-to-mastery" target="_blank">Zero To Mastery</a>.
